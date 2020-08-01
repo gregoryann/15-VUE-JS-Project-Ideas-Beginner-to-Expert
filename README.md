@@ -1,8 +1,8 @@
 # 15-VUE-JS-Project-Ideas-Beginner-to-Expert
-15 VUE JS Project Ideas: Beginner to Expert
 
-![106379549_200023544678059_3083294097608350771_n](https://user-images.githubusercontent.com/32854050/89106551-1ccb7700-d42b-11ea-8545-244066b65fff.jpg)
 
+
+![105934863_2767420743535745_1938914262591640119_n](https://user-images.githubusercontent.com/32854050/89106565-3bca0900-d42b-11ea-9c50-430ab4507f69.jpg)
 
 
 
